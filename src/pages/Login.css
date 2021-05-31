@@ -1,0 +1,26 @@
+.Login {
+    padding: 20px;
+    height: 40vh;
+    width: 50vw;
+    margin: 40px auto;
+    background-color: #eeeeee !important;
+    color: #66bb6a !important;
+}
+
+.Login-field {
+    margin-bottom: 10px !important;
+    width: 50%;
+}
+
+.Login-errors {
+    color: red;
+    margin-bottom: 7px;
+}
+
+.Login h1 {
+    font-size: 2.5rem;
+}
+
+.Login a {
+    color: blue;
+}

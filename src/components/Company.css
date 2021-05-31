@@ -1,0 +1,9 @@
+.Company {
+    flex: 1;
+    margin: 10px auto;
+    width: 70%;
+}
+
+.Company:hover {
+    color: #66bb6a;
+}

@@ -1,0 +1,12 @@
+.Job {
+    margin-top: 10px;
+}
+
+.Job-title {
+    margin-bottom: 10px !important;
+}
+
+.Job-apply {
+    float: right;
+    margin-bottom: 25px !important;
+}
